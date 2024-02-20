@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Interaction {
 
 	private CountriesHash list;
-	private int point = 0;
+	private int point;
 	
 	public Interaction(CountriesHash list) {
 		this.list = list;
